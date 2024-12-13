@@ -114,7 +114,8 @@ sentiment-analysis-flask/
 ## **Screenshots**
 
 ### **Homepage**:
-![image](https://github.com/user-attachments/assets/ea29c4b4-fc89-46a1-839e-670dd23fd96e)
+![Screenshot 2024-12-13 194405](https://github.com/user-attachments/assets/de4da9e0-b739-4646-936b-a4831f2cd5df)
+
 
 
 ---
